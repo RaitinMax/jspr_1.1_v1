@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jspr_1.1_Raitin_Max" />
+        <module name="jspr_1.1" />
       </profile>
     </annotationProcessing>
   </component>

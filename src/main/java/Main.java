@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Main {
     final static int PORT = 9999;
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Server myServer = new Server(PORT);
         myServer.toStart();
     }
